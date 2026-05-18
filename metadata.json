@@ -1,0 +1,8 @@
+{
+  "name": "Library Dashboard Prototype",
+  "description": "A high-fidelity interactive HTML prototype for a Personal Library Dashboard for Researchers and PhD Students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
